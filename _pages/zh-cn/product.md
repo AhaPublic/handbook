@@ -13,9 +13,9 @@ description: 创造使用者要的东西
 
 我们现有不同的软体产品组合，在不同的领域，有不同的进度，同时进行运作：
 
-### **[PerfectScore](https://www.getperfectscore.com/?utm_source=git){:target="\_blank"}** 教育科技
+### **[aha](https://www.getperfectscore.com/?utm_source=git){:target="\_blank"}** 教育科技
 
-运用人工智慧 AI 与机器学习 machine learning 最有效帮忙考生准备考试，如 SAT,TOEIC。目前普遍考试准备主要是补习班和参考书，昂贵又没效率。 **[PerfectScore](https://www.getperfectscore.com/?utm_source=git){:target="\_blank"}** app 方便、客制化的考题练习软体让考生准备充分的考高分。
+运用人工智慧 AI 与机器学习 machine learning 最有效帮忙考生准备考试，如 SAT,TOEIC。目前普遍考试准备主要是补习班和参考书，昂贵又没效率。 **[aha](https://www.getperfectscore.com/?utm_source=git){:target="\_blank"}** app 方便、客制化的考题练习软体让考生准备充分的考高分。
 
 我们还有更多在 RD 研发的产品，希望可以与优秀的你一起完成，欢迎您分享您的想法与技能。
 

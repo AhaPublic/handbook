@@ -17,7 +17,7 @@ A. Apakah Anda adalah anggota perusahaan kami atau bukan, kami mendorong Anda un
 
 ### 2. Apa produk utama perusahaan? Dimana posisinya?
 
-A. Perusahaan saat ini tidak memiliki yang disebut produk utama / objek layanan utama. Ia lebih menyukai pembangunan berbasis proyek. Konsep intinya adalah "mempercepat inkubasi ide anggota tim, menemukan kebutuhan pasar, dan menghasilkan solusi dengan cepat". Saat ini ada proyek dalam pengembangan. PerfectScore, dengan perangkat lunak sebagai keluaran utamanya. Harus ditekankan bahwa kami bukan kontraktor, tidak ada outsourcing, non-gaming, dan non-accept nature.
+A. Perusahaan saat ini tidak memiliki yang disebut produk utama / objek layanan utama. Ia lebih menyukai pembangunan berbasis proyek. Konsep intinya adalah "mempercepat inkubasi ide anggota tim, menemukan kebutuhan pasar, dan menghasilkan solusi dengan cepat". Saat ini ada proyek dalam pengembangan. aha, dengan perangkat lunak sebagai keluaran utamanya. Harus ditekankan bahwa kami bukan kontraktor, tidak ada outsourcing, non-gaming, dan non-accept nature.
 
 <br>
 

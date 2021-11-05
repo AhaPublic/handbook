@@ -2,7 +2,7 @@
 layout: default
 title: EdTech
 lang: zh-cn
-description: PerfectScore
+description: aha
 ---
 
 ## Phase 1

@@ -2,7 +2,7 @@
 layout: default
 title: EdTech
 lang: id
-description: PerfectScore
+description: aha
 ---
 
 ## Phase 1

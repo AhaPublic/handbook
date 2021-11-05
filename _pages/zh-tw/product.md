@@ -13,9 +13,9 @@ description: 創造使用者要的東西
 
 我們現有不同的軟體產品組合，在不同的領域，有不同的進度，同時進行運作：
 
-### **[PerfectScore](https://www.getperfectscore.com/?utm_source=git){:target="\_blank"}** 教育科技
+### **[aha](https://www.getperfectscore.com/?utm_source=git){:target="\_blank"}** 教育科技
 
-運用人工智慧 AI 與機器學習 machine learning 最有效幫忙考生準備考試，如 SAT,TOEIC。目前普遍考試準備主要是補習班和參考書，昂貴又沒效率。**[PerfectScore](https://www.getperfectscore.com/?utm_source=git){:target="\_blank"}** app 方便、客製化的考題練習軟體讓考生準備充分的考高分。
+運用人工智慧 AI 與機器學習 machine learning 最有效幫忙考生準備考試，如 SAT,TOEIC。目前普遍考試準備主要是補習班和參考書，昂貴又沒效率。**[aha](https://www.getperfectscore.com/?utm_source=git){:target="\_blank"}** app 方便、客製化的考題練習軟體讓考生準備充分的考高分。
 
 我們還有更多在 RD 研發的產品，希望可以與優秀的你一起完成，歡迎您分享您的想法與技能。
 

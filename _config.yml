@@ -73,11 +73,11 @@ locales:
     name: "\u7E41\u9AD4"
 plugins:
 - jemoji
-product_name: PerfectScore
+product_name: aha
 sass:
   sass_dir: _sass
 splash_btn_text: "\u67E5\u770B\u8077\u7F3A"
 theme: jekyll-theme-cayman
-title: PerfectScore
+title: aha
 user_d: D
 user_g: G
